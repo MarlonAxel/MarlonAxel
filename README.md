@@ -16,8 +16,9 @@ Apaixonado por tecnologia e em constante evolução!
 
 <hr>
 
-### Tecnologias atualmente em desenvolvimento 
+### Tecnologias utilizadas 
 <br> 
+<div>
 <img align="center" alt="Marlon axel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
 
 <img align="center" alt="Marlon axel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
@@ -29,3 +30,4 @@ Apaixonado por tecnologia e em constante evolução!
 <img align="center" alt="Marlon axel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;">
 
 <img align="center" alt="Marlon axel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+</div>
