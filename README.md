@@ -2,6 +2,7 @@
 Apaixonado por tecnologia e em constante evolução!
  Atuando profissionalmente com desenvolvimento e suporte em aplicações Web.
 <ul>
+    <li>🖥️ Analista de sistemas / TCS Industrial </li>
     <li>🖥️ Desenvolvedor web / Focotec sistemas automatizados</li>
     <li>🎓 Cursando Ciência da Computação 5º Período</li>
     
