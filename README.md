@@ -4,7 +4,7 @@ Apaixonado por tecnologia e em constante evolução!
 <ul>
     <li>🖥️ Analista de sistemas / TCS Industrial </li>
     <li>🖥️ Desenvolvedor web / Focotec sistemas automatizados</li>
-    <li>🎓 Cursando Ciência da Computação 5º Período</li>
+    <li>🎓 Cursando Ciência da Computação 7º Período</li>
     
 </ul>
 
