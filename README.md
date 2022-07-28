@@ -1,8 +1,8 @@
 ### Olá, eu sou <span  style="color: brown"> Marlon Axel </span> desenvolvedor web ✌️
 Apaixonado por tecnologia e em constante evolução!
- Atuando profissionalmente com desenvolvimento e suporte em aplicações Web.
+ Atuando profissionalmente com desenvolvimento e suporte em aplicações de sistema M.E.S.
 <ul>
-    <li>🖥️ Analista de sistemas / TCS Industrial </li>
+    <li>🖥️ Analista de sistemas / TCS Industrial - Technologies & Creative Solutions </li>
     <li>🖥️ Desenvolvedor web / Focotec sistemas automatizados</li>
     <li>🎓 Cursando Ciência da Computação 7º Período</li>
     
